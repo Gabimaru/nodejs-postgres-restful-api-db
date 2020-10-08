@@ -1,5 +1,5 @@
 ```
-npx djinit nodejs-postgre-restful-api-db
+npx djinit nodejs-postgres-restful-api-db
 cd nodejs-postgre-restful-api-db
 yarn add express body-parser sequelize pg pg-hstore
 
